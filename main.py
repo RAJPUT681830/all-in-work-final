@@ -51,10 +51,10 @@ prefixes = ["/", "~", "?", "!"]
 plugins = dict(root="plugins")
 if __name__ == "__main__" :
     bot = Client(
-        "StarkBot",
-        bot_token=Config.6949007196:AAGNxL9SIrZMhpwWOgLidJCR2Cj7hyA4cvY,
-    d=Config.29630882,
-        api_hash=Config.925e4dd9b851a3d50ca40db802787222,
+        "𝐒𝐚𝐯𝐞 𝐑𝐞𝐬𝐭𝐫𝐢𝐜𝐭𝐞𝐝",
+        bot_token=Config.6308901677:AAGd3tzGb5L-uax9jQCg3XjEQtVStJIyGNA,
+    d=Config.25142377,
+        api_hash=Config.9df6095e36e87e35da0f261dd5b9aa71,
         sleep_threshold=20,
         plugins=plugins,
         workers = 50
